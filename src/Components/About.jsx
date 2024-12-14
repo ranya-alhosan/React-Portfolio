@@ -4,11 +4,11 @@ function About(){
           <div className="container text-center">
             <div className="about">
               <div className="about-img-holder">
-                {/* <img
-                  src="assets/imgs/rania.png"
+                <img
+                  src="assets/imgs/web.png"
                   className="about-img"
                   alt="About Me"
-                /> */}
+                />
               </div>
               <div className="about-caption">
                 <p className="section-subtitle">Who Am I?</p>

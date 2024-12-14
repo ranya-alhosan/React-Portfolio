@@ -14,8 +14,6 @@ function App() {
 
   return (
     <>
-    <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
-
      <NavBar/>
      <Hero/>
      <About/>
@@ -25,7 +23,6 @@ function App() {
      <Project/>
      <Contact/>
      <Footer/>
-</body>
     </>
   )
 }

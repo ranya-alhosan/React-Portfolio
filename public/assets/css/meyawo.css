@@ -12178,7 +12178,8 @@ pre .code {
 }
 
 .about-img-holder .about-img {
-  width: 100%;
+  width: 70%;
+  margin-left: 20px;
   margin-bottom: 15px;
 }
 

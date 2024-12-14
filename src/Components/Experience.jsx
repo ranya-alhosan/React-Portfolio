@@ -2,7 +2,7 @@ function Experience(){
 
       const testimonials = [
         {
-          imgSrc: "assets/imgs/web.png",
+          imgSrc: "assets/imgs/student.png",
           feedback:
             "Gaining hands-on experience in web development with HTML, CSS, JavaScript, and Bootstrap, along with backend integration using PHP and MySQL.Completed multiple projects showcasing practical application development and enhanced teamwork, problem-solving, and communication skills through soft skills training.",
           name: "Full Stack Developer - Orange Coding Academy",
